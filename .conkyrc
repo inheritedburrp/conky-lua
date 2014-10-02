@@ -1,19 +1,15 @@
-# Conky settings #
 background no
 update_interval 1
-
 cpu_avg_samples 2
 net_avg_samples 2
-
 double_buffer yes
 no_buffers yes
 
 text_buffer_size 2048
-#imlib_cache_size 0
+
 
 temperature_unit fahrenheit
 
-# Window specifications #
 
 own_window yes
 own_window_type override
